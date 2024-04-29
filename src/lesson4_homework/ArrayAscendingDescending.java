@@ -11,7 +11,7 @@ public class ArrayAscendingDescending {
         Arrays.sort(array);
 
         System.out.println(Arrays.toString(array));
-        Arrays.sort(array, Collections.reverseOrder());
+        ///Arrays.sort(array, Collections.reverseOrder());
         System.out.println(Arrays.toString(array));
 
     }
